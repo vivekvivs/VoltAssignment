@@ -95,6 +95,4 @@ Add detailed logging using Python's logging module.
 Contributing
 Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
